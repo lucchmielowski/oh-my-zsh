@@ -136,16 +136,6 @@ To disable automatic upgrades, set the following in your `~/.zshrc`:
 DISABLE_AUTO_UPDATE=true
 ```
 
-### Manual Updates
-
-If you'd like to upgrade at any point in time (maybe someone just released a new plugin and you don't want to wait a week?) you just need to run:
-
-```shell
-upgrade_oh_my_zsh
-```
-
-Magic!
-
 ## Uninstalling Oh My Zsh
 
 Oh My Zsh isn't for everyone. We'll miss you, but we want to make this an easy breakup.
@@ -155,4 +145,4 @@ If you want to uninstall `oh-my-zsh`, just run `uninstall_oh_my_zsh` from the co
 
 ## License
 
-Oh My Zsh is released under the [MIT license](https://github.com/robbyrussell/oh-my-zsh/blob/master/MIT-LICENSE.txt).
+Oh My Zsh is released under the [MIT license](https://github.com/luskidotme/oh-my-zsh/blob/master/MIT-LICENSE.txt).
